@@ -1,9 +1,9 @@
-# A beautiful lotus flower
+# The University of the Future
 <p align="center">
-    <img src="My-Resources/My-Images/Lotus-flower.png"
+    <img src="My-Resources/My-Images/Uni-of-future.png"
 </p>
 
-The **Lotus Flower** is a beautiful flower admired by many.
+This is the title slide of my presentation at a conference
 
 ## dscho-repo1: My first GitHUb Repo
 
